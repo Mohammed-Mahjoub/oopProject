@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hp/Documents/cLionProjects/project/Brand.h
+bits/stdc++.h
+-
+
+C:/Users/hp/Documents/cLionProjects/project/Car.h
+bits/stdc++.h
+-
+Brand.h
+C:/Users/hp/Documents/cLionProjects/project/Brand.h
+
+C:/Users/hp/Documents/cLionProjects/project/Invoice.cpp
+Invoice.h
+C:/Users/hp/Documents/cLionProjects/project/Invoice.h
+
+C:/Users/hp/Documents/cLionProjects/project/Invoice.h
+bits/stdc++.h
+-
+Brand.h
+C:/Users/hp/Documents/cLionProjects/project/Brand.h
+Car.h
+C:/Users/hp/Documents/cLionProjects/project/Car.h
+
+C:/Users/hp/Documents/cLionProjects/project/main.cpp
+bits/stdc++.h
+-
+Brand.h
+C:/Users/hp/Documents/cLionProjects/project/Brand.h
+Car.h
+C:/Users/hp/Documents/cLionProjects/project/Car.h
+Invoice.h
+C:/Users/hp/Documents/cLionProjects/project/Invoice.h
+
